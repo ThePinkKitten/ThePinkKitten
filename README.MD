@@ -12,8 +12,4 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.facebook.com/fb.com/ThePinkKitten" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=#0866ff" alt="facebook" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=The Pink Cat&show_icons=true&locale=en" alt="The Pink Cat" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=The Pink Cat&" alt="The Pink Cat" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=The Pink Cat&show_icons=true&locale=en&layout=compact" alt="The Pink Cat" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=The Pink Cat" alt="The Pink Cat" /></a></p>
+<p><a target="_blank" href="https://www.facebook.com/fb.com/ThePinkKitten" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a></p>
