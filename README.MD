@@ -95,6 +95,20 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThePinkKitten/ThePinkKitten/output/github-contribution-grid-snake.svg">
 </picture>
 
+### 🐾 My Coding Time
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 🐍 My 3D Contribution Calendar
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThePinkKitten/ThePinkKitten/output/github-snake-3d-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThePinkKitten/ThePinkKitten/output/github-snake-3d.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThePinkKitten/ThePinkKitten/output/github-snake-3d.svg">
+</picture>
+
+### 🌤️ Weather in My City
+![Weather](./weather.svg)
+
 ### 🐟 Support My Coding Adventures
 
 <p align="center">
