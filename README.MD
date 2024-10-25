@@ -83,12 +83,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thepinkkitten&theme=radical" alt="thepinkkitten" />
 </p>
 
-### 🐟 Support My Coding Adventures
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/thepinkcat" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" alt="Buy Me A Coffee" height="60px" width="217px">
-  </a>
-</p>
 
 <h3 align="center">Thanks for visiting my profile! Here's a cookie for you 🍪</h3>
