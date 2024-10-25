@@ -16,6 +16,14 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300">
 </p>
 
+### 😺 Cat of the Day
+
+<p align="center">
+  <img src="https://cataas.com/cat/says/Hello%20GitHub!" width="300" alt="Cat of the Day">
+</p>
+
+> Mỗi ngày một chú mèo mới sẽ chào đón khách truy cập!
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=thepinkkitten&theme=dracula&column=7&no-frame=true&no-bg=true" alt="thepinkkitten" />
@@ -30,6 +38,16 @@
 - 💬 Ask me about **JavaScript, React, and how to catch the red dot**
 - 📫 Reach me at **asdsaphat@gmail.com** (I check it when I'm not napping)
 - ⚡ Fun fact: **I can purr in 7 programming languages!**
+
+### 🐾 My Feline Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Napping-Expert-ff69b4" alt="Napping">
+  <img src="https://img.shields.io/badge/Purring-Melodious-ff69b4" alt="Purring">
+  <img src="https://img.shields.io/badge/Coding-Purrfessional-ff69b4" alt="Coding">
+  <img src="https://img.shields.io/badge/Bug%20Catching-Swift-ff69b4" alt="Bug Catching">
+  <img src="https://img.shields.io/badge/Keyboard%20Walking-Expert-ff69b4" alt="Keyboard Walking">
+</p>
 
 ### 🐾 Connect with me
 
@@ -49,6 +67,15 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</p>
+
+### 🐱‍👤 My Meo-Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn">
+  <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" alt="Scratch">
+  <img src="https://img.shields.io/badge/Purr%20Script-FF69B4?style=for-the-badge&logo=&logoColor=white" alt="Purr Script">
+  <img src="https://img.shields.io/badge/Meow%20DB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="Meow DB">
 </p>
 
 ### 🐠 My Contribution Aquarium
@@ -76,6 +103,12 @@ I'm currently working on three exciting private projects:
 
 These projects are helping me enhance my skills in full-stack development, database management, and creating scalable web applications.
 
+### 🐱‍💻 Meo-Projects in Progress
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=PurrJS+Framework;Whisker+CSS;Tail-end+Testing;Catnip+Database;&center=true&width=380&height=50">
+</p>
+
 ### 🏆 Completed Projects
 
 - [Chess Game (Cờ Vua)](https://github.com/nupniichan/CoVua)
@@ -92,11 +125,32 @@ Through these projects, I've gained valuable experience in:
 
 I'm always eager to take on new challenges and expand my skill set. Feel free to reach out if you'd like to discuss any of these projects or potential collaborations!
 
+### 🕰️ My Meo-Coding Schedule
+
+| Time | Activity |
+|------|----------|
+| 🌅 6:00 AM | Wake up and knock things off shelves |
+| 🍳 7:00 AM | Breakfast and code review |
+| 💻 9:00 AM | Intense coding session |
+| 😺 12:00 PM | Nap on keyboard |
+| 🍣 2:00 PM | Lunch break and bug hunting |
+| 💻 3:00 PM | More coding and purring |
+| 🎮 6:00 PM | Relaxation and game testing |
+| 🌙 9:00 PM | Nighttime coding and zoomies |
+
 ### 😺 Favorite Quotes
 
 > "In ancient times cats were worshipped as gods; they have not forgotten this." - Terry Pratchett
 
 > "Time spent with cats is never wasted." - Sigmund Freud
+
+### 😸 Meo-tivational Quote Generator
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&qColor=%23FF69B4&aColor=%23FF69B4" alt="Jokes Card" />
+</p>
+
+> Refresh trang để xem câu nói hài hước mới!
 
 ### 📊 My Coding Adventures
 
@@ -112,6 +166,14 @@ I'm always eager to take on new challenges and expand my skill set. Feel free to
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thepinkkitten&theme=radical" alt="thepinkkitten" />
 </p>
 
+### 🐾 My Meo-Contributions
+/\_/\
+( o o )
+( =^= )
+( )
+( )
+( )))))))))))
 
+> Mỗi commit là một dấu chân mèo trong thế giới code!
 
 <h3 align="center">Thanks for visiting my profile! Here's a cookie for you 🍪</h3>
