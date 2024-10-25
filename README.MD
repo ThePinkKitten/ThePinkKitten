@@ -19,10 +19,10 @@
 ### 😺 Cat of the Day
 
 <p align="center">
-  <img src="https://cataas.com/cat/says/Hello%20GitHub!" width="300" alt="Cat of the Day">
+  <img src="https://api.thecatapi.com/v1/images/search?format=src&mime_types=image/jpg" width="300" alt="Cat of the Day">
 </p>
 
-> Mỗi ngày một chú mèo mới sẽ chào đón khách truy cập!
+> Mỗi lần làm mới trang, một chú mèo mới sẽ xuất hiện!
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
