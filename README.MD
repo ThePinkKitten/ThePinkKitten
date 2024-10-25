@@ -55,13 +55,40 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThePinkKitten&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 🐟 Current Project
+### 🚀 Current Projects
 
 <p align="center">
-  <a href="https://github.com/ThePinkKitten/your-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThePinkKitten&repo=your-project&theme=radical" alt="Current Project">
+  <a href="https://github.com/nupniichan/Website-dat-tour">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nupniichan&repo=Website-dat-tour&theme=radical" alt="Website đặt tour">
+  </a>
+  <a href="https://github.com/nupniichan/Website-quan-ly-cau-lac-bo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nupniichan&repo=Website-quan-ly-cau-lac-bo&theme=radical" alt="Website quản lý câu lạc bộ">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/nupniichan/Website-Ban-Dien-Thoai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nupniichan&repo=Website-Ban-Dien-Thoai&theme=radical" alt="Website bán điện thoại">
+  </a>
+</p>
+
+I'm currently working on:
+- 🌴 Developing a tour booking website
+- 🏆 Creating a club management system
+- 📱 Building an e-commerce platform for mobile phones
+
+### 🏆 Completed Projects
+
+- [Chess Game (Cờ Vua)](https://github.com/nupniichan/CoVua)
+- [Android Music App](https://github.com/nupniichan/AppNgheNhacAndroid)
+- [Internet Cafe Management System](https://github.com/nupniichan/QuanLyTiemNet)
+
+These completed projects showcase my skills in:
+- ♟️ Game development with Java
+- 🎵 Android app development
+- 💻 Desktop application development
+
+I'm constantly improving my skills and applying new technologies to create efficient and user-friendly solutions. Feel free to explore my projects and don't hesitate to reach out if you have any questions or collaboration ideas!
 
 ### 😺 Favorite Quotes
 
