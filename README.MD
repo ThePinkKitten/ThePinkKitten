@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **JavaScript, React, and Node.js**
 
-- 📫 How to reach me: **thepinkcat@example.com**
+- 📫 How to reach me: **asdsaphat@gmail.com**
 
 - ⚡ Fun fact: **I love cats and the color pink!**
 
