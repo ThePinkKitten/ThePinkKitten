@@ -61,18 +61,18 @@ I'm currently working on three exciting private projects:
 
 1. 🌴 **Tour Booking Website**
    - Developing a user-friendly platform for booking tours and travel packages
-   - Technologies: [List the main technologies you're using, e.g., React, Node.js, MongoDB]
-   - Key features: [List 2-3 main features, e.g., Real-time availability, User reviews, Payment integration]
+   - Technologies: [React, Node.js, MySQL]
+   - Key features: [Real-time availability, User reviews, Payment integration]
 
 2. 🏆 **Club Management System**
    - Creating a comprehensive system to streamline club operations and member management
-   - Technologies: [e.g., Django, PostgreSQL, Docker]
-   - Key features: [e.g., Event scheduling, Membership tracking, Financial reporting]
+   - Technologies: [React, Node.js, MongoDB]
+   - Key features: [Event scheduling, Membership tracking, Financial reporting]
 
-3. 📱 **E-commerce Platform for Mobile Phones**
-   - Building a robust online store for mobile devices and accessories
-   - Technologies: [e.g., Vue.js, Laravel, MySQL]
-   - Key features: [e.g., Product comparison, User reviews, Secure checkout]
+3. 📱 **E-commerce Platform for Website**
+   - Building a robust online store for website and accessories
+   - Technologies: [React, Node.js, MongoDB]
+   - Key features: [Product comparison, User reviews, Secure checkout]
 
 These projects are helping me enhance my skills in full-stack development, database management, and creating scalable web applications.
 
