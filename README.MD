@@ -69,10 +69,6 @@
 
 > "Time spent with cats is never wasted." - Sigmund Freud
 
-### 🎵 My Coding Playlist
-
-[![Spotify](https://novatorem-navy-ten.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-user-id)
-
 ### 📊 My Coding Adventures
 
 <p align="center">
@@ -86,22 +82,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thepinkkitten&theme=radical" alt="thepinkkitten" />
 </p>
-
-### 🐍 Watch my contribution graph get eaten by the snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThePinkKitten/ThePinkKitten/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThePinkKitten/ThePinkKitten/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThePinkKitten/ThePinkKitten/output/github-contribution-grid-snake.svg">
-</picture>
-
-### 🐾 My Coding Time
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-### 🌤️ Weather in My City
-![Weather](./weather.svg)
 
 ### 🐟 Support My Coding Adventures
 
