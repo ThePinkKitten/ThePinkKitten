@@ -51,6 +51,28 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
+### 🐠 My Contribution Aquarium
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThePinkKitten&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 🐟 Current Project
+
+<p align="center">
+  <a href="https://github.com/ThePinkKitten/your-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThePinkKitten&repo=your-project&theme=radical" alt="Current Project">
+  </a>
+</p>
+
+### 😺 Favorite Quotes
+
+> "In ancient times cats were worshipped as gods; they have not forgotten this." - Terry Pratchett
+
+> "Time spent with cats is never wasted." - Sigmund Freud
+
+### 🎵 My Coding Playlist
+
+[![Spotify](https://novatorem-navy-ten.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-user-id)
+
 ### 📊 My Coding Adventures
 
 <p align="center">
@@ -65,8 +87,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thepinkkitten&theme=radical" alt="thepinkkitten" />
 </p>
 
-### 🐟 My Contribution Graph (It's a bit fishy)
+### 🐍 Watch my contribution graph get eaten by the snake
 
-![](https://github-contribution-graph.ez4o.com/?username=thepinkkitten&last_n_days=7&img_url=https://i.imgur.com/2ZZcwgY.png)
+![snake gif](https://github.com/ThePinkKitten/ThePinkKitten/blob/output/github-contribution-grid-snake.gif)
+
+### 🐟 Support My Coding Adventures
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/thepinkcat" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" alt="Buy Me A Coffee" height="60px" width="217px">
+  </a>
+</p>
 
 <h3 align="center">Thanks for visiting my profile! Here's a cookie for you 🍪</h3>
