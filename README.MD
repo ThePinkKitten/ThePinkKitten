@@ -57,38 +57,40 @@
 
 ### 🚀 Current Projects
 
-<p align="center">
-  <a href="https://github.com/nupniichan/Website-dat-tour">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nupniichan&repo=Website-dat-tour&theme=radical" alt="Website đặt tour">
-  </a>
-  <a href="https://github.com/nupniichan/Website-quan-ly-cau-lac-bo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nupniichan&repo=Website-quan-ly-cau-lac-bo&theme=radical" alt="Website quản lý câu lạc bộ">
-  </a>
-</p>
+I'm currently working on three exciting private projects:
 
-<p align="center">
-  <a href="https://github.com/nupniichan/Website-Ban-Dien-Thoai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nupniichan&repo=Website-Ban-Dien-Thoai&theme=radical" alt="Website bán điện thoại">
-  </a>
-</p>
+1. 🌴 **Tour Booking Website**
+   - Developing a user-friendly platform for booking tours and travel packages
+   - Technologies: [List the main technologies you're using, e.g., React, Node.js, MongoDB]
+   - Key features: [List 2-3 main features, e.g., Real-time availability, User reviews, Payment integration]
 
-I'm currently working on:
-- 🌴 Developing a tour booking website
-- 🏆 Creating a club management system
-- 📱 Building an e-commerce platform for mobile phones
+2. 🏆 **Club Management System**
+   - Creating a comprehensive system to streamline club operations and member management
+   - Technologies: [e.g., Django, PostgreSQL, Docker]
+   - Key features: [e.g., Event scheduling, Membership tracking, Financial reporting]
+
+3. 📱 **E-commerce Platform for Mobile Phones**
+   - Building a robust online store for mobile devices and accessories
+   - Technologies: [e.g., Vue.js, Laravel, MySQL]
+   - Key features: [e.g., Product comparison, User reviews, Secure checkout]
+
+These projects are helping me enhance my skills in full-stack development, database management, and creating scalable web applications.
 
 ### 🏆 Completed Projects
 
 - [Chess Game (Cờ Vua)](https://github.com/nupniichan/CoVua)
+  - A Java-based chess game with intuitive UI and robust game logic
 - [Android Music App](https://github.com/nupniichan/AppNgheNhacAndroid)
+  - A feature-rich music player for Android with a sleek interface
 - [Internet Cafe Management System](https://github.com/nupniichan/QuanLyTiemNet)
+  - A comprehensive solution for managing internet cafe operations
 
-These completed projects showcase my skills in:
-- ♟️ Game development with Java
-- 🎵 Android app development
-- 💻 Desktop application development
+Through these projects, I've gained valuable experience in:
+- ♟️ Game development and algorithm implementation
+- 🎵 Mobile app development and user experience design
+- 💻 Desktop application development and system integration
 
-I'm constantly improving my skills and applying new technologies to create efficient and user-friendly solutions. Feel free to explore my projects and don't hesitate to reach out if you have any questions or collaboration ideas!
+I'm always eager to take on new challenges and expand my skill set. Feel free to reach out if you'd like to discuss any of these projects or potential collaborations!
 
 ### 😺 Favorite Quotes
 
