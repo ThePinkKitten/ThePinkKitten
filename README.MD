@@ -22,7 +22,7 @@
   <img src="https://api.thecatapi.com/v1/images/search?format=src&mime_types=image/jpg" width="300" alt="Cat of the Day">
 </p>
 
-> Each refresh page, a new cat appear!
+> Each day, a new cat appear!
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=thepinkkitten&theme=dracula&column=7&no-frame=true&no-bg=true" alt="thepinkkitten" />
