@@ -150,8 +150,7 @@ I'm always eager to take on new challenges and expand my skill set. Feel free to
   <img src="https://readme-jokes.vercel.app/api?theme=radical&qColor=%23FF69B4&aColor=%23FF69B4" alt="Jokes Card" />
 </p>
 
-> Refresh trang để xem câu nói hài hước mới!
-
+> Refresh page to see more comedy lines!
 ### 📊 My Coding Adventures
 
 <p align="center">
@@ -202,6 +201,6 @@ I'm always eager to take on new challenges and expand my skill set. Feel free to
                   @@###%@@@%@@%%%#%%%*+++                                 ..*%#+===***==++=++*#+-=+:.                 
                    @@@@@    @%**+*%%#*++                                   .:#%%%#%+..*+*%%%%%*=+-..                  
 ```
-> Mỗi commit là một dấu chân mèo trong thế giới code!
+> Each commit is a paw in a code world!
 
 <h3 align="center">Thanks for visiting my profile! Here's a cookie for you 🍪</h3>
