@@ -77,10 +77,6 @@
   <img src="https://img.shields.io/badge/Meow%20DB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="Meow DB">
 </p>
 
-### 🐠 My Contribution Aquarium
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThePinkKitten&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ### 🚀 Current Projects
 
 I'm currently working on three exciting private projects:
