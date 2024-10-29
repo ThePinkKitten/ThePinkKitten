@@ -150,19 +150,40 @@ I'm always eager to take on new challenges and expand my skill set. Feel free to
 </p>
 
 > Refresh page to see more comedy lines!
-### 📊 My Coding Adventures
+### 📊 My Contributions & Activities
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thepinkkitten&show_icons=true&locale=en&layout=compact&theme=radical" alt="thepinkkitten" />
+  <!-- Contribution Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thepinkkitten&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thepinkkitten&show_icons=true&locale=en&theme=radical" alt="thepinkkitten" />
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThePinkKitten&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
+### 💪 Contribution Highlights
+
+- 🤝 **Active Collaborator** in various team projects
+- 🔍 **Code Review** contributor
+- 🐛 **Bug Reports** and issue tracking
+- 📝 **Documentation** improvements
+- 🌟 **Feature Suggestions** and discussions
+
+### 🛠️ Technologies I Work With
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thepinkkitten&theme=radical" alt="thepinkkitten" />
+  <img src="https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-9B59B6?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-FF69B4?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-9B59B6?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
+
+### 📈 Recent Activities
+<!-- This section can be updated manually with your recent contributions -->
+- 🔄 Contributed to project X: Added new feature
+- 🐛 Fixed critical bug in project Y
+- 📝 Improved documentation for Z feature
+- 🤝 Collaborated on implementing new API endpoints
 
 ### 🐾 My Meo-Contributions
 ```
