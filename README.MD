@@ -148,15 +148,9 @@ I'm always eager to take on new challenges and expand my skill set. Feel free to
 > Refresh page to see more comedy lines!
 ### 📊 My Contributions & Activities
 
-<p align="center">
-  <!-- Contribution Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thepinkkitten&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-<p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThePinkKitten&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
 
 ### 💪 Contribution Highlights
 
