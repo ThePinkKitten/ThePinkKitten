@@ -2,10 +2,11 @@ name: Waka Readme
 
 on:
   schedule:
-    # Thiết lập chạy hằng ngày (mỗi 24h)
     - cron: '0 0 * * *'
   workflow_dispatch:
-    # Cho phép chạy thủ công (nếu cần)
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
