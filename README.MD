@@ -151,8 +151,10 @@ I'm always eager to take on new challenges and expand my skill set. Feel free to
 <!--START_SECTION:waka-->
 
 ```txt
-CSHTML   1 hr 21 mins    █████████████████░░░░░░░░   68.62 %
-C#       37 mins         ████████░░░░░░░░░░░░░░░░░   31.38 %
+CSHTML       1 hr 17 mins    ██████████████░░░░░░░░░░░   56.51 %
+C#           52 mins         █████████▒░░░░░░░░░░░░░░░   37.88 %
+SQL          7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
