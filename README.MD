@@ -151,11 +151,11 @@ I'm always eager to take on new challenges and expand my skill set. Feel free to
 <!--START_SECTION:waka-->
 
 ```txt
-CSHTML       5 hrs 26 mins   ████████████▒░░░░░░░░░░░░   49.54 %
-C#           5 hrs 7 mins    ███████████▓░░░░░░░░░░░░░   46.55 %
-SQL          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-JavaScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+C#           5 hrs 43 mins   ███████████▓░░░░░░░░░░░░░   46.56 %
+CSHTML       5 hrs 24 mins   ███████████░░░░░░░░░░░░░░   43.94 %
+JSON         53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+SQL          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Text         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
