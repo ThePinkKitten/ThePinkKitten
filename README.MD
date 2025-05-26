@@ -151,11 +151,11 @@ I'm always eager to take on new challenges and expand my skill set. Feel free to
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   3 hrs 5 mins    ████████████▒░░░░░░░░░░░░   49.19 %
-HTML         1 hr 36 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.51 %
-CSS          47 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
-Git Config   32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-Markdown     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+TeX          4 hrs 51 mins   ███████████░░░░░░░░░░░░░░   43.61 %
+JavaScript   3 hrs 5 mins    ███████░░░░░░░░░░░░░░░░░░   27.73 %
+HTML         1 hr 36 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
+CSS          47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+Git Config   32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
 ```
 
 <!--END_SECTION:waka-->
