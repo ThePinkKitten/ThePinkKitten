@@ -151,11 +151,11 @@ I'm always eager to take on new challenges and expand my skill set. Feel free to
 <!--START_SECTION:waka-->
 
 ```txt
-CSS          3 hrs 7 mins    ██████████▓░░░░░░░░░░░░░░   42.93 %
-HTML         2 hrs 5 mins    ███████▒░░░░░░░░░░░░░░░░░   28.78 %
-Dart         1 hr 2 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
-Text         41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
-Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Dart                1 hr 34 mins    █████████▓░░░░░░░░░░░░░░░   38.05 %
+HTML                44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.93 %
+Text                41 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
+CSS                 34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
+Gradle Kotlin DSL   15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
 ```
 
 <!--END_SECTION:waka-->
