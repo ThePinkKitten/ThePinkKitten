@@ -151,11 +151,11 @@ I'm always eager to take on new challenges and expand my skill set. Feel free to
 <!--START_SECTION:waka-->
 
 ```txt
-Dart                4 hrs 51 mins   ██████████████▓░░░░░░░░░░   58.06 %
-Text                2 hrs 52 mins   ████████▓░░░░░░░░░░░░░░░░   34.36 %
-Git Config          15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-Other               7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-Bash                6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Dart         2 hrs 40 mins   ███████████████████░░░░░░   75.58 %
+Text         20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+Git Config   14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+Other        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Bash         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
 ```
 
 <!--END_SECTION:waka-->
