@@ -151,8 +151,10 @@ I'm always eager to take on new challenges and expand my skill set. Feel free to
 <!--START_SECTION:waka-->
 
 ```txt
-Dart       12 mins         ████████████████████▓░░░░   82.21 %
-Markdown   2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.79 %
+Dart       38 mins         ███████████████████▒░░░░░   77.79 %
+Text       7 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
+Markdown   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+YAML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
