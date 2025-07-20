@@ -151,11 +151,9 @@ I'm always eager to take on new challenges and expand my skill set. Feel free to
 <!--START_SECTION:waka-->
 
 ```txt
-Dart                5 hrs 52 mins   ██████████████████████▓░░   91.09 %
-Gradle Kotlin DSL   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-JSON                5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-Bash                4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-YAML                3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Dart   4 hrs 26 mins   ████████████████████████░   96.54 %
+JSON   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Bash   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->
