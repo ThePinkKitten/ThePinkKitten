@@ -151,7 +151,9 @@ I'm always eager to take on new challenges and expand my skill set. Feel free to
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   4 hrs 49 mins   █████████████████████████   100.00 %
+Dart    8 hrs 48 mins   █████████████████████████   99.86 %
+YAML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
