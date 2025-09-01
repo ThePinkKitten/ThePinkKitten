@@ -151,11 +151,8 @@ I'm always eager to take on new challenges and expand my skill set. Feel free to
 <!--START_SECTION:waka-->
 
 ```txt
-Astro        16 mins         ███████████▒░░░░░░░░░░░░░   44.78 %
-JSON         11 mins         ████████▒░░░░░░░░░░░░░░░░   32.92 %
-HTML         5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
-JavaScript   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Markdown   1 hr 17 mins    ██████████████████░░░░░░░   72.21 %
+JSON       29 mins         ███████░░░░░░░░░░░░░░░░░░   27.79 %
 ```
 
 <!--END_SECTION:waka-->
