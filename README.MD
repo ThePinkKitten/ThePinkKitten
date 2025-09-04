@@ -151,8 +151,8 @@ I'm always eager to take on new challenges and expand my skill set. Feel free to
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr 17 mins    ██████████████████░░░░░░░   72.21 %
-JSON       29 mins         ███████░░░░░░░░░░░░░░░░░░   27.79 %
+Markdown   1 hr 57 mins    ███████████████████▒░░░░░   77.74 %
+JSON       33 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.26 %
 ```
 
 <!--END_SECTION:waka-->
