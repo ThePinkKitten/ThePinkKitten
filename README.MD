@@ -151,7 +151,11 @@ I'm always eager to take on new challenges and expand my skill set. Feel free to
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#                                 1 hr 43 mins    ██████████████████▒░░░░░░   72.88 %
+JSON                               30 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.46 %
+XML                                3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Git Config                         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Other                              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
