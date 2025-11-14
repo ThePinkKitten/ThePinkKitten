@@ -151,9 +151,7 @@ I'm always eager to take on new challenges and expand my skill set. Feel free to
 <!--START_SECTION:waka-->
 
 ```txt
-VB.NET   15 mins         ██████████████████▓░░░░░░   75.16 %
-Text     3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.43 %
-Other    1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
