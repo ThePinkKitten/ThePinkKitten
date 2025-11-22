@@ -151,7 +151,9 @@ I'm always eager to take on new challenges and expand my skill set. Feel free to
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TeX        38 mins         ██████████████████████░░░   88.59 %
+Markdown   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
+Other      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
 ```
 
 <!--END_SECTION:waka-->
