@@ -151,9 +151,11 @@ I'm always eager to take on new challenges and expand my skill set. Feel free to
 <!--START_SECTION:waka-->
 
 ```txt
-TeX        38 mins         ██████████████████████░░░   88.59 %
-Markdown   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
-Other      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+TeX        38 mins         ██████████████████░░░░░░░   71.66 %
+Markdown   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+HTML       4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+JSON       2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+Python     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
 ```
 
 <!--END_SECTION:waka-->
