@@ -151,8 +151,10 @@ I'm always eager to take on new challenges and expand my skill set. Feel free to
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 mins          ████████████████████████▓   98.48 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+TypeScript   29 mins         ██████████████████████▓░░   90.08 %
+Other        2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
+Text         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
