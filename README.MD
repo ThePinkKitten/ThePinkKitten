@@ -151,9 +151,11 @@ I'm always eager to take on new challenges and expand my skill set. Feel free to
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   26 mins         ██████████████████████▒░░   89.29 %
-Other        2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
-Text         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+C#                                 16 mins         █████████████▓░░░░░░░░░░░   54.96 %
+Text                               8 mins          ███████▒░░░░░░░░░░░░░░░░░   29.90 %
+Python                             2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
+Microsoft Visual Studio Solution   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+Other                              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
 ```
 
 <!--END_SECTION:waka-->
