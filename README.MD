@@ -151,9 +151,10 @@ I'm always eager to take on new challenges and expand my skill set. Feel free to
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     22 mins               ████████████████████████▓   98.44 %
-Git Config   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Git          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+C#           57 mins               ██████████████████░░░░░░░   71.73 %
+Markdown     22 mins               ███████░░░░░░░░░░░░░░░░░░   27.83 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Git          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
